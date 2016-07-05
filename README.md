@@ -1,2 +1,0 @@
-# testmentionbot2
-#
