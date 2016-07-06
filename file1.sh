@@ -3,6 +3,7 @@
 # TEST BOT 3
 # TEST BOT 4
 # TEST BOT 5
+# TEST BOT 6
 
 1
 2
